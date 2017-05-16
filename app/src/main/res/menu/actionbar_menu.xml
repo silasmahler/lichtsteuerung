@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2016 www.droid-lernen.de
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the „License“);
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an „AS IS“ BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Menüpunkt, der angezeigt wird, wenn auf die drei Punkte in der Actionbar geklickt wird. -->
+    <item android:id="@+id/menu_start"
+        android:title="@string/menu_start"
+        app:showAsAction="never"/>
+    <item android:id="@+id/menu_einstellungen"
+        android:title="@string/menu_einstellungen"
+        app:showAsAction="never"/>
+    <item android:id="@+id/menu_ueber"
+        android:title="@string/menu_ueber"
+        app:showAsAction="never"/>
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lichtsteuerung</string>
+    <string name="ok">Ok</string>
+    <string name="ueber_text">Eine kleine App zur Lichtsteuerung</string>
+
+    <!-- Texte für unser Menü -->
+    <string name="menu_start">Startseite</string>
+    <string name="menu_ueber">Über</string>
+    <string name="menu_einstellungen">Einstellungen</string>
+</resources>
